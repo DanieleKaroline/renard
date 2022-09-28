@@ -11,4 +11,4 @@ Tecnologias Usadas:
 
 Esse trabalho foi desenvolvido com muito amor e empenho! <3
 
-Link do site: http://equiperenard.atwebpages.com/
+
